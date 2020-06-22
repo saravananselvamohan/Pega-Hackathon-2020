@@ -1,5 +1,12 @@
 # Pega-Hackathon-2020
 Pega UPI Payments
+## Demo Environment
+Environment Credentials : 
+Email: "lokikumar257@gmail.com",
+Password : "Pegahack",
+Application : "Paytm_Implementation"
+
+
 ## Inspiration
 Developers to build UPI Transactions Apps in near-real-time.
 
