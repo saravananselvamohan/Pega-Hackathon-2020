@@ -1,7 +1,7 @@
 # Pega-Hackathon-2020
 Pega UPI Payments
 ## Demo Environment
-Environment Credentials : 
+Environment Credentials : My Trial - Pega Hackathon Trial Account
 Email: "lokikumar257@gmail.com",
 Password : "Pegahack",
 Application : "Paytm_Implementation"
