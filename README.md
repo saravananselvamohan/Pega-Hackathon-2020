@@ -5,6 +5,9 @@ Environment Credentials :
 Email: "lokikumar257@gmail.com",
 Password : "Pegahack",
 Application : "Paytm_Implementation"
+## Demo Environment Paytm Test Credintials
+Mobile No: "77777 77777",
+OTP : "489871",
 
 
 ## Inspiration
